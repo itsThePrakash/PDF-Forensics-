@@ -336,6 +336,8 @@ http://localhost:4200
 
 **Ayush Singh Rajput**
 B.Tech CSE (2026), MNIT Jaipur
+**Prakash**
+B.Tech CSE (2026), MNIT Jaipur
 
 ---
 
